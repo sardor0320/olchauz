@@ -1,0 +1,7 @@
+header {
+    background-color: #DA002B;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
